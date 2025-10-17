@@ -5,7 +5,7 @@ We empower decision-makers with automated spatial intelligence, transforming sat
 
 🔗 **Website:** [https://spationex.com](https://spationex.com)  
 📧 **Email:** [info@spationex.com](mailto:info@spationex.com)  
-📦 **GitHub Organization:** [SpatioAITech](https://github.com/SpatioNEX)
+📦 **GitHub Organization:** [SpatioNEX](https://github.com/SpatioNEX)
 
 ---
 
